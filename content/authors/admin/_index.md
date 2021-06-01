@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Kira Li
-avatar_image: "user-full.png"
+avatar_image: "user-full.jpg"
 # Username (this should match the folder name)
 authors:
 - admin
