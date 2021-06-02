@@ -50,3 +50,5 @@ Whatever area of study you're in, programming and data science skills can be inc
 Especially in the pandemic, data science is being used constantly to keep track of statistics such as case rates, death rates, and vaccinations 
 and communicate them effectively to the public. 
 
+{{< gallery >}}
+
