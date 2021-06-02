@@ -3,7 +3,7 @@ title: Pfizer Thermal Shipper
 summary: An Improved COVID-19 Vaccine Thermal Shipper
 tags:
 - design
-date: "2016-06-01T00:00:00Z"
+date: "2021-04-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: 
