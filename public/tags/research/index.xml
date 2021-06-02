@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research on Kira Li</title>
+    <link>https://kira-li.netlify.app/tags/research/</link>
+    <description>Recent content in research on Kira Li</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 02 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://kira-li.netlify.app/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nanotechnology</title>
+      <link>https://kira-li.netlify.app/project/nanotechnology/</link>
+      <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kira-li.netlify.app/project/nanotechnology/</guid>
+      <description>&lt;p&gt;Brain aneurysms, which are enlargements of weakened blood vessels in the brain, can cause severe negative
+neurological consequences if they rupture, including death. Usually, only those with a family history of aneurysms
+are regularly screened. For others, their aneurysm could rupture before detection. It is crucial to have early detection methods to
+minimize the impact on the lives of those affected. Nanotechnology is a new solution that is being explored.
+Nanorobots can be used to identify relevant chemical signals in the blood vessels that signal the location of a potential aneurysm.
+Then, the nanosensor emits radio freqency signals sent to a wireless device so that the data can be tracked and analyzed.
+There are many benefits to this approach, including direct targeting for drug delivery and as a diagnostic tool.
+Although this is a very new area of research, it shows much promise.&lt;/p&gt;
+&lt;p&gt;This project included an informal proposal, memo, formal report, and poster presentation for the course
+&amp;ldquo;Technical Communication for Biomedical Engineering&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

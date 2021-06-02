@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Kira Li</title>
+    <link>https://kira-li.netlify.app/authors/</link>
+    <description>Recent content in Authors on Kira Li</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://kira-li.netlify.app/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://kira-li.netlify.app/authors/admin/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kira-li.netlify.app/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m an undergraduate engineering student specializing in cellular bioengineering.
+I chose to study biomedical engineering because I want to be able to apply engineering skills and concepts to the life sciences/medicine.
+Especially in the midst of the global COVID-19 pandemic, there is a clear need for medical innovation.&lt;/p&gt;
+&lt;p&gt;In my free time, I love to read books, go on walks, and play music.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

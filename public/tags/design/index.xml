@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>design on Kira Li</title>
+    <link>https://kira-li.netlify.app/tags/design/</link>
+    <description>Recent content in design on Kira Li</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://kira-li.netlify.app/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pfizer Thermal Shipper</title>
+      <link>https://kira-li.netlify.app/project/thermal_shipper/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kira-li.netlify.app/project/thermal_shipper/</guid>
+      <description>&lt;p&gt;Due to the COVID-19 pandemic, many pharmaceutical companies, including Pfizer have developed vaccines.
+The Pfizer vaccine has to be kept in ultra-cold temperatures, so for its delivery the company developed a thermal shipper.
+However, the design has major limitations, which were addressed in this group design project.&lt;/p&gt;
+&lt;p&gt;Our group&amp;rsquo;s final design features slideable trays in the box to contain vaccine vials and a door on the front of the box.
+The top tray contains dry ice to keep vaccines cool, and the temperature sensor is embedded in the door.
+We designed the mechanical, electrical, and software components to maintain thermal stability for keeping
+the vaccine viable while allowing for greater access and modularity to smaller quantities of the vaccines
+than the current thermal shipper.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
